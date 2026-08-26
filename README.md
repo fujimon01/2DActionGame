@@ -152,7 +152,7 @@ cd 2DActionGame
 MIT License
 
 ## 作成者
-[Your Name]
+fujimori01
 
 ## 連絡先・フィードバック
 バグ報告や機能提案は [GitHub Issues](https://github.com/YourUsername/2d-action-game/issues) でお願いします。
