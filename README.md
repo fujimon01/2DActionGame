@@ -117,7 +117,7 @@ cd 2DActionGame
    - ゲームオーバー画面から「Retry」でリスタート
 
 ## ゲームスクリーンショット
-[スクリーンショット / GIF をここに配置予定]
+<img width="2880" height="1558" alt="Image" src="https://github.com/user-attachments/assets/22b2fbd5-caea-49bf-9113-75ac73803f77" />
 
 ## 今後の改善案
 - [ ] 複数ステージの実装
